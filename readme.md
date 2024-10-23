@@ -15,8 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-![GIF](https://imgur.com/a/ios-prework-submission-video-lmwAsEE.gif)
-
+![img](https://i.imgur.com/0TKasd4.gif)
 
 ## App Brainstorming (Step 4)
     - Instagram:
