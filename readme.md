@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-![img](https://i.imgur.com/0TKasd4.gif)
+[GIF](https://i.imgur.com/0TKasd4.gif)
 
 ## App Brainstorming (Step 4)
     - Instagram:
