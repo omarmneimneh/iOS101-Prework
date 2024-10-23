@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-![](https://imgur.com/a/ios-prework-submission-video-lmwAsEE.gif)
+![GIF](https://imgur.com/a/ios-prework-submission-video-lmwAsEE.gif)
 
 
 ## App Brainstorming (Step 4)
