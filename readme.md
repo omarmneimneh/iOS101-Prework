@@ -15,7 +15,16 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-[GIF](https://i.imgur.com/0TKasd4.gif)
+<div>
+    <a href="https://www.loom.com/share/f5d6a3fcc33249918852b446ff64d968">
+      <p>Loom Message - 23 October 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/f5d6a3fcc33249918852b446ff64d968">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f5d6a3fcc33249918852b446ff64d968-325169c50fa40280-full-play.gif">
+    </a>
+  </div>
+
+
 
 ## App Brainstorming (Step 4)
     - Instagram:
